@@ -154,6 +154,7 @@ export const projects = [
     technologies: ["React", "JavaScript", "CSS"],
     github: "#",
     demo: "#",
+    image: "/projects/spotify.png",
   },
 ];
 
